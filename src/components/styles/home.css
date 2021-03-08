@@ -1,0 +1,14 @@
+.homeRow{
+    display: grid;
+    grid-template-columns: 1fr 30%;
+    border: 1px solid black;
+    border-radius: 15px;
+    min-height: 90vh;
+
+    
+}
+
+.homeCol{
+    border-right: 1px solid black;
+    padding-left: 20px;
+}
